@@ -1,0 +1,495 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true way of uniting the people of God in these nations· Opened in a sermon preached in the chappel at White-Hall, Jan. 1. 1659. By Peter Sterry.</title>
+            <author>Sterry, Peter, 1613-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93881</idno>
+            <idno type="STC">Wing S5486A</idno>
+            <idno type="STC">ESTC R213121</idno>
+            <idno type="EEBO-CITATION">99897919</idno>
+            <idno type="PROQUEST">99897919</idno>
+            <idno type="VID">135505</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135505)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2556:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true way of uniting the people of God in these nations· Opened in a sermon preached in the chappel at White-Hall, Jan. 1. 1659. By Peter Sterry.</title>
+                  <author>Sterry, Peter, 1613-1672.</author>
+               </titleStmt>
+               <extent>[6], 27, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Peter Cole, printer and book-seller, at the sign of the Printing-press in Cornhill neer the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The year in the title is given according to Lady Day dating.</note>
+                  <note>Running title reads: A sermon preached in White-Hall Chappel, on the Lords Day in the after noon, Jan. 1. 1659.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135505:1"/>
+            <p>THE TRUE WAY Of Uniting the People of God In Theſe NATIONS. Opened in a Sermon Preached in the Chappel at White-Hall, <hi>Jan.</hi> 1. 1659.</p>
+            <p>By PETER STERRY.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Peter Cole,</hi> Printer and Book-ſeller, at the ſign of the Printing-preſs in Cornhill neer the Royal Exchange. 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:135505:2"/>
+            <pb facs="tcp:135505:2"/>
+            <head>TO THE Chriſtian Reader.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Thought not of troubling the Preſs with this <hi>Sermon,</hi> untill I had that Task impo<g ref="char:EOLhyphen"/>ſed upon me by ſome worthy Perſons, and Honorable Members of this preſent Par<g ref="char:EOLhyphen"/>liament, who were Auditors. When I have been meditating upon the Works of God with us in theſe Daies, that <hi>Scripture</hi> hath come into my mind, which our <hi>Savior</hi> propounds to his Apoſtles, as a Cure of their Ambition, and a quickening Cordial for their Mutual Love: <hi>The firſt ſhal be laſt, and the laſt ſhal be firſt.</hi> As the Apothecary beats his rich Spices very <note n="a" place="margin">Com<g ref="char:EOLhyphen"/>poſitio perfecta per mi<g ref="char:EOLhyphen"/>nimas partes.</note> ſmal to the fineſt pouder, then turns them often over
+<pb facs="tcp:135505:3"/> from top to bottom, from the bottom to the top again; that ſo he may make a perfect mixture of them into one Body. Thus the Lord beateth and bruiſeth his People in theſe Nations; thus he raiſeth up, and caſteth down; he ſets them up over the heads, he laies them low under the feet of each other by ma<g ref="char:EOLhyphen"/>ny Changes, and Viciſsitudes. The end of all is, that <hi>He</hi> may hide Pride, Ambition, and the Love of this World from our Eyes; that <hi>He</hi> may work us through Humility, Meekneſs, and Mutual love unto the <hi>Unity of the Spirit,</hi> and the ſweet Fel<g ref="char:EOLhyphen"/>lowſhip of <hi>one Myſtical Body</hi> in our Lord <hi>Jeſus.</hi>
+            </p>
+            <p>The little pleaſure which I take in, as alſo the little profit, which for the moſt part redounds from <hi>Verbal Apologies</hi> have made me long ſilent, while thou mayeſt perhaps have read, or heard re<g ref="char:EOLhyphen"/>ported words, as having proceeded from me in a publick Sermon, which were abſolutely untrue both for the form of Expreſsion, and the Senſe. It ſeems not unfit upon this occaſion of appearing in Print, nor improper for my preſent Subject, to give thee this Account of my ſelf.</p>
+            <pb facs="tcp:135505:3"/>
+            <p>
+               <hi>Firſt,</hi> It appears to me a very <hi>vain</hi> thing for any perſon in this world to determine with an in<g ref="char:EOLhyphen"/>fallible Aſſurance the ſtate of any perſon in the next world without a particular, infallible, and extraordinary Revelation from Heaven in the caſe, which I never pretended to.</p>
+            <p>
+               <hi>Secondly,</hi> According to my poor meaſure of Underſtanding in the <hi>Goſpel,</hi> nothing can more fundamentally ſubvert the whol Myſtery of <hi>Chriſt</hi> together with all Evangelical, Spiritual Principles, and Truths; nothing can more directly oppoſe the Supream Deſign of the Father, the Peace and Com<g ref="char:EOLhyphen"/>fort of all his Children; than to joyn any Creature with our Lord <hi>Jeſus</hi> in the Great Work of his <hi>Me<g ref="char:EOLhyphen"/>diation,</hi> a principal part whereof his <hi>Interceſſi<g ref="char:EOLhyphen"/>on</hi> is, the value, and <g ref="char:V">Ʋ</g>ertue of which <hi>Part,</hi> as of the whol <hi>Mediation,</hi> conſiſts in this, That our Lord <hi>Jeſus,</hi> our only and ever bleſſed <hi>Mediator,</hi> and <hi>Interceſſor</hi> is the only, true, Eternal God, of one undivided <hi>Eſſence</hi> with the <hi>Father,</hi> and in all things <hi>equal</hi> to Him.</p>
+            <p>I humbly intreat thee, <hi>Chriſtian Reader,</hi> to judg of me according to theſe <hi>Maxims,</hi> and to be<g ref="char:EOLhyphen"/>leeve that I never did, and through <hi>Grace</hi> hope, that I never ſhall expreſs any thing unſuitable to them.</p>
+            <pb facs="tcp:135505:4"/>
+            <p>But it is good for us to ſay to all in all Caſes, as St. <hi>Paul</hi> ſaith to the <hi>Galatians: You have not</hi> 
+               <note n="b" place="margin">Injury is <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the priva<g ref="char:EOLhyphen"/>tion of ſome good: but the good things of a good man can never be taken from him. <hi>Maxi. Tyr.</hi>
+               </note> 
+               <hi>injured me: I am as you are, be you as I am.</hi> I am as you are; I ſet my ſoul in your ſouls ſtead. Be you as I am, in the fellowſhip of the ſame Grace, and Love of the <hi>Father;</hi> in the Unity of the ſame <hi>Spirit</hi> through our Lord <hi>Jeſus,</hi> in whom I am for his ſake</p>
+            <closer>
+               <signed>Thy Servant PETER STERRY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:135505:4"/>
+            <head>A Sermon Preached in <hi>White-Hall</hi> Chappel on the Lords day in the af<g ref="char:EOLhyphen"/>ternoon, <hi>January,</hi> 1. 1659.</head>
+            <epigraph>
+               <q>
+                  <bibl>Pſal. 134.3. the latter part of the verſe.</bibl>
+                  <p>
+                     <hi>For there the Lord hath commanded the Bleſsing, and Life for evermore.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <div type="introduction">
+               <p>
+                  <seg rend="decorInit">T</seg>He Subject of this <hi>Pſalm</hi> is <hi>the <g ref="char:V">Ʋ</g>nity of Brethren.</hi> In the <hi>firſt verſe</hi> you have a Contemplation of the Beauty, Profite, or Pleaſantneſs of this Unity with a high Admiration: <hi>Behold how good, and how pleaſant is is for Brethren to dwell to<g ref="char:EOLhyphen"/>gether in <g ref="char:V">Ʋ</g>nity!</hi> This is illuſtrated by a double Simili<g ref="char:EOLhyphen"/>tude. The <hi>firſt</hi> is taken from the <hi>precious Oyntment upon the Head, that ran down upon the Beard, even</hi> Aarons <hi>Beard, that went down to the Skirt of his Garment.</hi> This coſtly Oyntment was a figure of the <hi>Holy Ghoſt</hi> poured forth upon our Lord <hi>Jeſus</hi> our true high Prieſt, and from him, as from the Head running down upon his whole Myſtical Body, and going down even to the loweſt Member of <hi>Chriſt,</hi> which is but as
+<pb n="2" facs="tcp:135505:5"/> the Skirt of his Garment. This Annoynting makes them all One Spirit, and from this unity of the Spirit, as from a rich Oyntment, goes forth a ſweet ſavor of Love, Spiritual Delight, and Joy into the Noſtrils of God the <hi>Father,</hi> our Lord <hi>Jeſus,</hi> the Holy Angels, and all the Saints. This is the ſence of the <hi>ſecond verſe.</hi> In the <hi>third verſe</hi> you have the <hi>ſecond</hi> Similitude borrowed from the <hi>Dew of</hi> Hermon, <hi>and that Dew that deſcends upon the Mountains of</hi> Sion. As theſe Hills ow all their freſhneſs, and flouriſhing to the Dew, or Rain, that comes down from Heaven up<g ref="char:EOLhyphen"/>on them: ſo doth all the Beauty, Pleaſantneſs, Fruit<g ref="char:EOLhyphen"/>fulneſs of the Saints proceed from the Unity of the Spirit. After this comes in the Concluſion of the <hi>Pſalm,</hi> which like a ful Cloſe in Muſick, brings a fulneſs of Bleſſings along with it: <hi>There the Lord hath commanded the Bleſſing, even Life for evermore. There,</hi> that is, where <hi>Brethren dwel together in <g ref="char:V">Ʋ</g>nity, there</hi> God hath commanded <hi>Bleſſing,</hi> the fulneſs of all bleſſings, which according to the Language of the <hi>Jews,</hi> &amp; the <hi>Holy Scrip<g ref="char:EOLhyphen"/>tures</hi> is wont to be expreſſed by the ſingle term of <hi>Life.</hi> Together with all this goes the Eſtabliſhment, and E<g ref="char:EOLhyphen"/>verlaſtingneſs of theſe Bleſſings, <hi>Life for evermore.</hi>
+               </p>
+               <p>It is manifeſt by what hath been ſpoken, that the <hi>Brethren</hi> here mentioned are the <hi>Brethren</hi> of our Lord <hi>Jeſus,</hi> the Children of God his Father, and their Father. For among theſe <hi>Brethren</hi> alone is the true <hi>
+                     <g ref="char:V">Ʋ</g>nity,</hi> every Unity of every other ſort of men being only a Conſpi<g ref="char:EOLhyphen"/>racy, and Combination of Enmity; and upon the <hi>
+                     <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>ty</hi> of theſe Brethren alone is founded the <hi>Everlaſtingneſs of Life and Bleſſing.</hi>
+               </p>
+               <p>The <hi>Doctrine</hi> which I ſhal from theſe words inſiſt up<g ref="char:EOLhyphen"/>on is this.
+<pb n="3" facs="tcp:135505:5"/>
+                  <q>That <hi>God hath there ordained Eſtabliſhment, and a Laſting<g ref="char:EOLhyphen"/>neſs of Bleſſing, where his People dwel together in <g ref="char:V">Ʋ</g>nity.</hi>
+                  </q>
+               </p>
+               <p>I ſhal ſatisfie my ſelf with one full, and clear Scrip<g ref="char:EOLhyphen"/>ture for the opening, and proving of this point, 1. <hi>John</hi> 4.16. <hi>God is Love, he that dwelleth in love, dwelleth in God, and God dwelleth in him.</hi>
+               </p>
+               <p>There is a <hi>threefold</hi> Love.</p>
+               <p>
+                  <hi>Firſt,</hi> There is Love in the Fountain which is the Love of God to us, the Riches of free Grace. <hi>Secondly,</hi> There is Love in the Reflection, our Love to God, the ſame divine Love returning back again to its Original, and carrying our Hearts along with it; as the Beam or heat of the Sun reflected, and caſt back from the Wall towards the Sun again. <hi>Thirdly,</hi> There is Love in the Rebound, in the Out-ſpreadings, and Over-flowings of it upon al the Saints firſt, upon al Mankind, and upon al the Creatures according to its due proportions.</p>
+               <p>A Saint dwels in this Love, as an Iſland in a Sea, He ſees all things coming to him, as Merchandiſe convey<g ref="char:EOLhyphen"/>ed to him over this Sea of Love. All his way of com<g ref="char:EOLhyphen"/>merce with all is by this Sea of Love. Nay more, a Be<g ref="char:EOLhyphen"/>leever dwels in the Fountain of this Love, in the Heart of God, and this is his own Fountain, from whence his ſtreams of Love go abroad into the Streets.</p>
+               <p>Now he that thus <hi>dwelleth in Love,</hi> as St. <hi>John</hi> ſaith, <hi>dwelleth in God.</hi> What Life, what Bleſſings doth he en<g ref="char:EOLhyphen"/>joy, who hath God for his dwelling place? Where the Holy man ſaith in the <hi>Pſalms,</hi> That He <hi>had fainted</hi> if He <hi>had not hoped to have ſeen the Goodneſs of God in the Land of the Living;</hi> ſome <hi>Divines,</hi> both <hi>Jewiſh</hi> and <hi>Chriſtian</hi> under<g ref="char:EOLhyphen"/>ſtand there <hi>God</hi> to be that <hi>Land of the Living.</hi> There is a
+<pb n="4" facs="tcp:135505:6"/> 
+                  <hi>Scripture</hi> not unſuitable to this Expoſition; <hi>Eſa.</hi> 61.11. <hi>As the Earth bringeth forth her bud, and as the Garden cauſeth the things that are ſowen in it to ſpring forth: ſo the Lord God wil cauſe Righteouſneſs, and Praiſe to ſpring up before all the Nations.</hi> Hear this al you that have choſen Chriſt; you that groan under the burden of Sin; you, that are hi<g ref="char:EOLhyphen"/>therto in your Sins. God invites you all to the Riches of his free Grace. He cals aloud to you, allures, com<g ref="char:EOLhyphen"/>pels you to turn to the Habitation of his free Grace, to dwel in Love, that Love, which makes him <hi>All Love</hi> to you, which will make you <hi>All Love</hi> to Him, and to eve<g ref="char:EOLhyphen"/>ry thing, that bears any Image or Mark of Him. Now conſider the Encouragement. Say not, I am unwor<g ref="char:EOLhyphen"/>thy of this Love; I am uncapable of it; I ſhal be un<g ref="char:EOLhyphen"/>fruitful, uncomfortable under it. For if once thou co<g ref="char:EOLhyphen"/>meſt to dwel in this Love, thou dwelleſt in God, who is that <hi>Earth,</hi> that <hi>Garden,</hi> w<hi rend="sup">ch</hi> hath the Seeds of al Righ<g ref="char:EOLhyphen"/>teouſneſs, Truth, Holineſs, Conſolation, Joy, Glory ſowen in himſelf, and will make them to bud, and ſpring forth in thee before thine own Eyes, and before all the Nations.</p>
+               <p>What Eſtabliſhment of all Bleſſings hath he, who dwelling in Love, dwels in God? He hath <hi>a City, which hath a Foundation,</hi> even the <hi>Rock of Ages</hi> for a Foundati<g ref="char:EOLhyphen"/>on to it. Thus much for the Proof, and Opening of the Point.</p>
+            </div>
+            <div n="1" type="application">
+               <head>
+                  <g ref="char:V">Ʋ</g>SE 1.</head>
+               <div type="introduction">
+                  <p>The <hi>firſt <g ref="char:V">Ʋ</g>ſe</hi> which I intend of this point is for <hi>Con<g ref="char:EOLhyphen"/>viction.</hi> If the Lord <hi>have there ordained Bleſſings, and E<g ref="char:EOLhyphen"/>ſtabliſhment of Bleſſings, where the People of God dwel together in <g ref="char:V">Ʋ</g>nity:</hi> let then the People of God in the midſt of us
+<pb n="5" facs="tcp:135505:6"/> be convinced of the Evill of their <hi>Diviſions</hi> ſo, as to mourn over them, to repent of them, and to endeavor, every one in his own heart &amp; place, an amendment. <hi>Eſa.</hi> 7.9. God tels the Jews; <hi>If ye wil not beleeve, ſurely ye ſhal not be eſtabliſhed.</hi> You may as wel read it according to the Hebrew; <hi>It is becauſe ye ſhal not be eſtabliſhed.</hi> This was ſpoken to <hi>Judah, when Syria, and Ephraim had taken evill Counſel againſt it, ſaying; Let us go up, and vex it, and make a breach in it,</hi> v. 6. The ſame God now cries aloud in the midſt of us; that, If we wil not beleeve, and love one another, ſurely we ſhall not be eſtabliſhed. If all intreaty, perſwaſions, commands, chaſtenings, ſuffer<g ref="char:EOLhyphen"/>ings, wil not bring us to love one another: ſurely it is, becauſe it is in the Deſign, and Counſel of the Lord, that we ſhal not be eſtabliſhed.</p>
+                  <p>I ſhal divide this <hi>
+                        <g ref="char:V">Ʋ</g>ſe</hi> into <hi>Two Heads.</hi>
+                     <list>
+                        <item>
+                           <hi>Firſt</hi> I ſhal ſhew you, <hi>Why</hi> we ſhould mourn over our Diviſions.</item>
+                        <item>
+                           <hi>Secondly,</hi> I ſhal ſet before you, <hi>What</hi> thoſe things are in our Diviſions, over which we are to mourn.</item>
+                     </list>
+                  </p>
+               </div>
+               <div n="1" type="section">
+                  <head>The firſt Head.</head>
+                  <p>
+                     <hi>Firſt</hi> I ſhal ſhew you ſeveral <hi>Reaſons, Why</hi> we ſhould repent of our want of <hi>
+                        <g ref="char:V">Ʋ</g>nity,</hi> and our manifold great breaches of <hi>Charity.</hi>
+                  </p>
+                  <div n="1" type="reason">
+                     <head>Reaſon 1.</head>
+                     <p>It was the <hi>Dying Charge</hi> of our Lord Jeſus, <hi>that we love one another.</hi> In theſe dying Diſcourſes, which our Lord <hi>Jeſus</hi> had with his Diſciples upon the admini<g ref="char:EOLhyphen"/>ſtring of his <hi>Body,</hi> and <hi>Blood</hi> to them in the Sacra<g ref="char:EOLhyphen"/>ment,
+<pb n="6" facs="tcp:135505:7"/> immediately before his Sufferings he giveth them this Command with a peculiar, and ſtrong im<g ref="char:EOLhyphen"/>preſſion upon it; <hi>John</hi> 13.34. <hi>A new Commandement I give unto you, that ye love one another;</hi> then he doubles the Com<g ref="char:EOLhyphen"/>mand with a <hi>Reaſon,</hi> and a <hi>Rule</hi> annexed to it, <hi>as I have loved you, that ye alſo love one another;</hi> You have it again urged in ſuch a manner, as if this were the only Com<g ref="char:EOLhyphen"/>mand, which their Savior left with them, as if this Com<g ref="char:EOLhyphen"/>mand were peculiarly his own, coming from his Heart, as having its Root there, and having his Heart in it, as Li<g ref="char:EOLhyphen"/>ving, and joying after an eſpecial manner in it; <hi>Joh.</hi> 15.12. <hi>This is my Commandment</hi> (in the ſame ſence, in which before he had ſaid, <hi>A new Commandment</hi>) <hi>that ye love one another, as I have loved you. Greater love than this hath no man, that a man lay down his life for his Friend.</hi> How ſtrongly doth our Saviour preſs this Command of love? How high doth he wind it up? Yet a fourth time we have it ſo brought in, as if al the Diſcourſes of <hi>Chriſt,</hi> his Truths, and his Commands were aimed at this, as the End of all, and wrapt up in this, as the Perfection of all, <hi>John</hi> 15.17. <hi>Theſe things I command ye, that ye love one another.</hi>
+                     </p>
+                     <p>St. <hi>Paul</hi> tels us in his <hi>Epiſtle</hi> to the <hi>Hebrews</hi> (if it be his) that <hi>a mans Teſtament no man diſanuls,</hi> and he ſigni<g ref="char:EOLhyphen"/>fies the reaſon in ſaying, that <hi>every Teſtament is confirmed by the Death of the Teſtator.</hi> This is the <hi>Teſtament,</hi> and <hi>laſt Will</hi> of our Lord <hi>Jeſus</hi> confirmed and ſealed to us by his moſt precious <hi>Blood,</hi> and <hi>Death;</hi> that we love one ano<g ref="char:EOLhyphen"/>ther. What griefe, what a ſhame ought it to be to us, that while we hate one another in our Hearts, revile one another with our Tongues, with our Hands are a<g ref="char:EOLhyphen"/>ctive, with our Feet are ſwift (Oh the horror of it!) to ſhed the Blood one of another: we do with thoſe Hearts, Tongues, Hands, &amp; Feet, w<hi rend="sup">ch</hi> have their Life by
+<pb n="7" facs="tcp:135505:7"/> the Death of Chriſt, diſanul and make void that Death of his, go diriectly contrary to the end of it, offer de<g ref="char:EOLhyphen"/>ſpight to, trample upon his Heart-blood, as a common thing, as weak, and worthleſs?</p>
+                  </div>
+                  <div n="2" type="reason">
+                     <head>Reaſon 2.</head>
+                     <p>The <hi>Lord</hi> himſelf makes this a Mark, and <hi>Character</hi> of his Diſciples, <hi>that they love one another.</hi> John 13.35. <hi>By this ſhal all men know that ye are my Diſciples, if ye love one a<g ref="char:EOLhyphen"/>nother.</hi> Have we the <hi>Mark</hi> of <hi>Chriſt,</hi> and of the <hi>Lamb,</hi> which is <hi>Love:</hi> or rather the <hi>Mark</hi> of the <hi>Beaſt and of Antichriſt</hi> upon our Hearts, Foreheads, and Hands by our Babel-Confuſions, Diviſions, and Enmities? Are we the Brood of the <hi>Dove,</hi> the Holy Spirit, or the Seed of the <hi>Serpent</hi> rather? Do we ſhew our ſelves <hi>Chriſtians,</hi> or <hi>Devils,</hi> the Children of him, who hath his name of Devil, and Satan from accuſing the Brethren, from Slanders and Hatred, who was a Murtherer from the Beginning? Do not we make our ſelves Murthe<g ref="char:EOLhyphen"/>rers like him, as of the ſame Seed, while we hate one a<g ref="char:EOLhyphen"/>nother, while we carry Swords, and Fire in our Tongues, I would they were not in our Hands alſo, to deſtroy one another?</p>
+                     <p>How was <hi>Jeſus Chriſt</hi> Glorified in his Saints of old in the Primitive times, when the <hi>Heathen cryed</hi> out with admiration: <hi>See theſe Chriſtians, how they love one ano<g ref="char:EOLhyphen"/>ther!</hi> But how ſhould our Hears now faint, and break with in us to hear the reproaches of al round about us, while they cry: <hi>See the Saints, how endleſsly they fall out, and fight one with another! how eagerly they tear one another in pieces for the prey, and the ſpoil!</hi>
+                     </p>
+                  </div>
+                  <div n="3" type="reason">
+                     <pb n="8" facs="tcp:135505:8"/>
+                     <head>Reaſon 3.</head>
+                     <p>We have been joyned together in one common <hi>Faith;</hi> we have <hi>Prayed</hi> together; we have taken <hi>ſweet advice</hi> together in the Houſe of God, in the preſence of the Lord, concerning theſe things, at the beginning of theſe times. The <hi>Heathen</hi> ever eſteemed theſe things, to have eaten of <hi>one Bread,</hi> to have ſate at <hi>one Hearth,</hi> and warmed our ſelves at <hi>one Fire,</hi> to have been partakers of <hi>one Table,</hi> as ſacred pledges of an inviola<g ref="char:EOLhyphen"/>ble Friendſhip. Shal then <hi>Chriſtians</hi> have no reſpect to theſe things, that they have by their common <hi>Faith</hi> eaten of <hi>one Bread,</hi> and that Bread the Lord <hi>Jeſus;</hi> that they have by their joynt <hi>Prayers</hi> warmed themſelves at the ſame <hi>fires</hi> of the Love, and Riches of the <hi>Father,</hi> and <hi>Chriſt;</hi> that they have been partakers in their <hi>Coun<g ref="char:EOLhyphen"/>ſel,</hi> and Communion of the ſame <hi>Table,</hi> yea the ſame <hi>Al<g ref="char:EOLhyphen"/>tar,</hi> which is <hi>Chriſt</hi> riſen from the Dead? Shall theſe things be <hi>Pledges,</hi> and <hi>Ties</hi> of friendſhip among <hi>Chriſti<g ref="char:EOLhyphen"/>ans,</hi> which have no force, no value in them, like the Cords with which the Mad men in the Goſpell were bound, which they broke, as faſt as they were bound with them returning to their wildneſs, and to converſe among the Tombs?</p>
+                     <p>There is a Myſterious Fable among the Poets of the Teeth of a Serpent, which being ſown, immediately ſprung up into armed men, that as immediately de<g ref="char:EOLhyphen"/>ſtroyed one another. What fear, what confuſions, what repentings ought to ariſe out of this Conſiderati<g ref="char:EOLhyphen"/>on, that our <hi>Faith, Prayers, Spiritual Communion</hi> ſhould prove ſuch Teeth, a Serpentine Seed, out of which in<g ref="char:EOLhyphen"/>deed we are grown up into the ſtrength, and Powers of this World, like armed men, which we preſently
+<pb n="9" facs="tcp:135505:8"/> make uſe of, ſo ſoon as we are ſprung up into them, to our mutual Ruine?</p>
+                  </div>
+                  <div n="4" type="reason">
+                     <head>Reaſon 4.</head>
+                     <p>The Lord <hi>Jeſus</hi> ſuffers greatly by our Diviſions. A Wound is deſcribed to be a violent ſeparation of the parts of the body one from another; <hi>Solutio Continui.</hi> Sickneſs is the Diſagreement of the Humors in the bo<g ref="char:EOLhyphen"/>dy fighting one with another. The neerer any of theſe Parts, or Humors are in place, or influence to the Heart the more grievous is the Wound, or Sickneſs. While the Members of <hi>Jeſus Chriſt,</hi> which are ſo neer to his Heart, are by the violence of their Diviſions ſeparated, and torn aſunder; What Wounds are made upon the Body, and Spirit, and Heart of the Lord <hi>Jeſus?</hi> O! all you, that paſs by, that look on, nay that are actors in theſe things, is it nothing to you, the grief, and pain, which <hi>Jeſus Chriſt</hi> feels?</p>
+                     <p>The <hi>Jews</hi> ſay that their <hi>Meſſias</hi> lies ſick in Paradiſe of the wounds, which the Children of <hi>Iſrael</hi> have given him by their ſins. Alas! how true it is that our <hi>Meſſias,</hi> our bleſſed Savior, who is our only Paradiſe, while he is indeed in Himſelf, and to Himſelf an Eternal Para<g ref="char:EOLhyphen"/>diſe, yet in the midſt of us, and by the vertue of his Re<g ref="char:EOLhyphen"/>lation to us lies bleeding, ſick, and dying of the wounds, which he receives by our Contentions, and Enmity. Thus we blaſt our own Paradiſe, and turn it into a Wil<g ref="char:EOLhyphen"/>derneſs. If <hi>Jeſus Chriſt</hi> ſuffer thus much in us, and from us; ſhal we have no bowels, no fellow feeling to ſuffer together with him?</p>
+                     <p>It was a Heavenly Reſolution in that Father, who
+<pb n="10" facs="tcp:135505:9"/> ſaid, <hi>If my Wife, and Children were hanging upon my Arms, and Legs; if my aged Parents laid their bodies weeping in my way to keep me from going to die for the Teſtimony of Jeſus: I would throw away my Wife, and Children from me; I would go over the aged bodies of my deareſt Parents.</hi> But behold a quite contrary Image of things! <hi>Jeſus Chriſt</hi> hangs up<g ref="char:EOLhyphen"/>on your Arms, and Legs, and Hearts, he laies his blee<g ref="char:EOLhyphen"/>ding Body, his glorified Perſon in our way: yet we caſt him off violently from us, we go trampling over him to pierce the bodies, &amp; ſpirits one of another. Can we caſt our eye upon theſe Bleedings, and Breakings of the Heart of <hi>Chriſt</hi> cauſed by our Diviſions, &amp; not wiſh, that our heads were Fountains of Water to weep day, and night for the Breaches of his People? Can we hear him crying out from Heaven, as he did to <hi>Saul? O! all ye Beleevers of</hi> England <hi>why pierce ye me; behold and ſee, if a<g ref="char:EOLhyphen"/>ny ſorrow, any ſufferings were ever like unto mine, who ſuffer in you all, and for you all. Which of you ſuffers, and I am not ſick, and burn?</hi> Can we hear this, and not let our Weapons fal out of our hands, and fal down weeping in the em<g ref="char:EOLhyphen"/>braces one of another at the Feet of our Lord <hi>Jeſus?</hi> If we ſee not theſe things, which I have urged, as Spiritu<g ref="char:EOLhyphen"/>al truths, it is, becauſe there is very little of the <hi>Light</hi> of <hi>Chriſt</hi> in us. If we be not tenderly affected with them, it is, becauſe we have very little of the <hi>Life</hi> of <hi>Chriſt.</hi>
+                     </p>
+                  </div>
+                  <div n="5" type="reason">
+                     <head>Reaſon 5.</head>
+                     <p>Our <hi>Diviſions</hi> keep off Bleſſings, and Eſtabliſhment from us. Yea they multiply our Confuſions, and con<g ref="char:EOLhyphen"/>ſume us. <hi>Jeſus Chriſt is a precious and ſure Corner-ſtone, to whom coming we grow up altogether into one Building, to a
+<pb n="11" facs="tcp:135505:9"/> Temple to the Lord.</hi> The Corner Stone unites the parts of the Building, and ſo becomes the ſtrength of it. <hi>Jeſus Chriſt</hi> is firſt a principle of Unity, then of Strength, Eſta<g ref="char:EOLhyphen"/>bliſhment, and Beauty. When Unity is gone nothing can come, but Deformity, Diſſolution, and Deſolation. St. <hi>Paul</hi> warns the <hi>Galatians,</hi> and all us in them, that, <hi>If we bite, and devour one another, we ſhould take heed, that we be not conſumed one of another, Galat.</hi> 5.15. Let us not deceive our ſelves by thinking, that we are the ſtronger party, and may ſafely bite, or devour the weaker. The Spi<g ref="char:EOLhyphen"/>rit of God cleerly ſignifies the danger of being al of us, ſtrong, and weak mutually conſumed by one another, if we bite and devour one another. Wo unto us, that inſtead of being, as a faggot, whoſe band is entire, the leaſt ſtick whereof cannot be broken by reaſon of the united ſtrength of the whole; we have a fire kindled upon us, which hath burnt our Band, that we conſume the faſter; while every one by his own Heat, not only conſumes himſelf, but encreaſeth the flame in all the reſt, and haſtens the end of all!</p>
+                     <p>But beſides this <hi>Solomon</hi> hath a <hi>Proverb,</hi> which I hum<g ref="char:EOLhyphen"/>bly pray, that it prove not a <hi>Propheſie</hi> concerning us: <hi>The Beginning of ſtrife is as the letting out of Waters.</hi> I know the common interpretation of this <hi>Scripture,</hi> yet may I without wreſting apply it to this ſence alſo. The Peo<g ref="char:EOLhyphen"/>ple of God in theſe nations are, as a little Medow en<g ref="char:EOLhyphen"/>compaſſed on every ſide with a ſtormy Sea of raging Spirits at home, and abroad. The only Sea-wall, that defends this Meadow from theſe multitudes of waters roaring round about it, is, the Unity of theſe Brethren in one Spirit. If the leaſt breach be in this our Sea<g ref="char:EOLhyphen"/>wall, and not ſuddenly made up: How will that Sea
+<pb n="12" facs="tcp:135505:10"/> of domeſtick Enemies, and foraign Nations break in with its waves foaming, and roaring upon us, untill it have overwhelmed us ſo, that our place ſhall know us no more?</p>
+                     <p>To conclude this <hi>firſt part</hi> of my <hi>
+                           <g ref="char:V">Ʋ</g>ſe,</hi> God promiſeth by <hi>Zachariah</hi> to <hi>pour out</hi> upon his Children, <hi>a Spirit of Grace, that they ſhal ſee him, whom they have pierced, and mourn over him.</hi> O! that the Lord would at this day fulfil this <hi>Scripture</hi> in the midſt of theſe Nations; that he would pour forth upon al the Members of <hi>Chriſt</hi> in <hi>England, Scotland,</hi> and <hi>Ireland,</hi> ſuch an Enlightning Spirit, ſuch a Melting Spirit of Grace; that they may ſee whom they have pierced, even their own <hi>Heart,</hi> their own <hi>Life,</hi> the Lord <hi>Jeſus</hi> in their own Boſomes, and in the Boſomes of their Brethren, while they pierce one another; that they may ſee, how they pour Coals of fire rak't from Hel below upon the Head, and into the Boſom of that Body of His, of which they are al fel<g ref="char:EOLhyphen"/>low-members, and that having our Eyes opened to ſee this, our hearts might be touch't to mourn kindly over this <hi>Jeſus,</hi> over our ſelves, and over each other, in Him!</p>
+                  </div>
+               </div>
+               <div n="2" type="section">
+                  <head>The ſecond Head.</head>
+                  <p>Thus I have ſhewn <hi>Why</hi> we ſhould mourn Now it. follows to let you know, <hi>What we ſhould mourn for.</hi>
+                  </p>
+                  <p>I ſhal divide this into four <hi>Particulars.</hi>
+                  </p>
+                  <p>
+                     <hi>Firſt</hi> Let us mourn for the <hi>Cauſes</hi> of theſe <hi>Diviſions.</hi> St. <hi>James</hi> teacheth us, <hi>Jam.</hi> 4.1. that <hi>Warrs, and Fighting among</hi> us are from <hi>hence, even of our Luſts.</hi> Let every one now go home into his own Soul, and where he finds Covetouſneſs, Ambition, Self-love, Love of Pleaſure,
+<pb n="13" facs="tcp:135505:10"/> Love of this World, or any other Luſt, let him bring it forth before the Lord, and ſay; <hi>This is that Fire-brand, which I have brought to kindle or encreaſe this flame of Conten<g ref="char:EOLhyphen"/>tion, that devours us.</hi> Then let him give no reſt to himſelf; until he have quench't this Fire-brand, and contributed to the quenching of the univerſal Burnings, by repen<g ref="char:EOLhyphen"/>tant Tears, and the Blood of Chriſt.</p>
+                  <p>1 <hi>Cor.</hi> 3.3. St. <hi>Paul</hi> thus expoſtulates: <hi>For ye are Car<g ref="char:EOLhyphen"/>nal. For whereas there are amongſt you Envying, and Strife, and Diviſions; are ye not Carnal and walk as men?</hi> See the <hi>Reaſon</hi> of our <hi>Diviſions,</hi> our want of Spirituality, our <hi>Carnality.</hi> O that there were a man, whoſe voyce were heard in the ears of the Lord, ſaying; If I had been Spi<g ref="char:EOLhyphen"/>ritual, if I had walked in the Image and Likeneſs of God, according to the vertues of God, according to the Divine Nature: I might have been that poor wiſe man ſpoken of by <hi>Solomon,</hi> that might have Saved the City of God among us, from theſe Deſolations by its Diviſi<g ref="char:EOLhyphen"/>ons. But now, Alas! I have been carnal, and walked, as a man. I have been ſo far from ſuffering injury, that I have done wrong. Inſtead of Beleeving all things for Good, I have been ſwift to hear, and to beleeve Evill, and have rejoyced in the Evill of others, which I have heard. When I ſhould have born my own Burthen my ſelf, and have born my Brother's burthen too: I have caſt the whol weight of my own burthen upon others; til they have been oppreſt with it; but have refuſed to touch their burthens with my little Finger. In the place of bleſſing thoſe, who curſed, and praying for thoſe, that perſecuted me, and this way heaping Coals of the Fire of a Spiritual Love from Heaven upon their Heads: Have I not curſed thoſe, who have bleſſed, per<g ref="char:EOLhyphen"/>ſecuted
+<pb n="14" facs="tcp:135505:11"/> thoſe who have prayed for me, and as I have thought any man mine Enemy, cal'd for a Fire of wrath, and Vengeance from Hell to take hold of him? This, this Carnality in my Heart, and Life is that Seed, out of which Strife, and War are grown up to this Heigth, and Greatneſs. The Living Viper carries a mortal poyſon about with him: but being dead, as Phyſitians ſay, makes an excellent Antidote, and Cor<g ref="char:EOLhyphen"/>dial. By being alive in the fleſh, and in Carnal Princi<g ref="char:EOLhyphen"/>ples we are become a generation of Vipers. O! that our Hearts broken, and Spirits mortified through an E<g ref="char:EOLhyphen"/>vangelical Repentance, and a lively Faith in the Croſs of <hi>Chriſt,</hi> might now through the Grace, and Spirit of <hi>Chriſt</hi> become ſaving Antidotes, or reviving Cordials to the poor dying cauſe of God, Intereſt of his People, and the whol Three Nations!</p>
+                  <p>
+                     <hi>Secondly,</hi> Let us grieve for having miniſtred any <hi>Oc<g ref="char:EOLhyphen"/>caſion</hi> to our Contentions. The Fire is lodg'd in the Flint, and comes forth from that; but it is the ſtriking of the Steel upon the Flint, which makes it to fly out. Perhaps the Fire of Strife hath come forth from other Spirits: but if my want of care, and caution, my want of exactneſs, and integrity, my failing in prudence and tenderneſs have made me, as the Steel, which by ſtrik<g ref="char:EOLhyphen"/>ing upon another mans Spirit hath drawn forth ſparks of Fire; or if I by my Over-credulity, or Incredulity; by my ſlackneſs, or haſt have been, as Tinder to receive and cheriſh thoſe Sparks, which otherwiſe might have dyed: I am not to hold my ſelf guiltleſs, but to repent of this alſo, as a Sore Evil among the Saints, while they live under the Sun. <hi>Moſes</hi> fell in the Wilderneſs only
+<pb n="15" facs="tcp:135505:11"/> for the unadviſedneſs of his words from impatience, and haſtineſs of Spirit under the greateſt provocati<g ref="char:EOLhyphen"/>ons.</p>
+                  <p>
+                     <hi>Thirdly,</hi> We are to weep for our having been <hi>Actors</hi> in our <hi>Diviſions.</hi> Who can waſh his hands in Innocency, and ſay, that, he hath not been in ſom kind an <hi>Acceſſa<g ref="char:EOLhyphen"/>ry</hi> in the Guilt of our confuſions, although he hath been no <hi>Principal?</hi> Haſt thou not contributed to them by ad<g ref="char:EOLhyphen"/>viſing, abbetting, encouraging, countenancing of them; at leaſt by withdrawing that Barr, which thou might'ſt have put in their way by thy Counſel, Aſſiſt<g ref="char:EOLhyphen"/>ance, and Intereſt? Haſt thou not been pleaſing thy ſelf to think of making out thine own Intereſt by the publick Diſcord, by a violent, and bloody Change; when thou ſhouldſt like <hi>Curtius,</hi> have caſt thy ſelf with that, which was deareſt to thee into the Gulf to have ſtopt the flowing forth of theſe waters of ſtrife; or, like <hi>Paul</hi> been ready to have offered thy ſelf up upon this ſervice of Love, to have become a Sacrifice for the Peace of the Church, and Nation?</p>
+                  <p>
+                     <hi>Fourthly,</hi> Let us weep, and bleed for this, if we have been the <hi>Authors</hi> of theſe Differences <hi>Solomon</hi> brings this in, as the Higheſt, and Laſt of thoſe things, which the Lord moſt eminently hates, and which are the greateſt Abomination to him; <hi>He that ſows Diſcord a<g ref="char:EOLhyphen"/>mong Brethren; Prov.</hi> 6.15. This is a Scarlet, and Crimſon ſin indeed. What can make it white? This covers the Soul all over with Spots of Blood, Blood drop'd from the Hearts of thouſands of men, of many Excellent, and precious Perſons, one of whom was
+<pb n="16" facs="tcp:135505:12"/> worth ten thouſand, as was ſaid of <hi>David.</hi> What ſhall waſh out theſe ſpots? It is only the Blood of God, which can waſh out theſe bloody ſpots, and make theſe Crimſon ſins white. So far, as any of us find any of this guilt upon himſelf; let him take up this Lamentation, and ſay; I am guilty of the Blood of all theſe: and I, whether ſhal I cauſe my guilt to go, where ſhall I make my ſhame to hide it ſelf? Go thy waies to the Croſs of Chriſt. Let thy Spirituall mournings formed in thee by a Spirit of Faith be, as Nails to faſten thee, and thy Shame to the Croſs with the dead body of the Lord <hi>Je<g ref="char:EOLhyphen"/>ſus.</hi> Go thy waies to the Grave of thy Savior, to his Blood, to his Spirit. Bury thy ſelf and thy guilt toge<g ref="char:EOLhyphen"/>ther with <hi>Chriſt</hi> in his Grave; waſh in the Laver of his Blood; caſt thy ſelf into the Fountain of his Spirit. So come forth a New man, without Spot, through the Reſurrection of the Lord from the Dead. Now con<g ref="char:EOLhyphen"/>tribute to the aſſwaging of theſe flames, by Rivers of living waters flowing forth from the Fountains of the Holy Ghoſt opened within thee.</p>
+                  <p>When <hi>Peter</hi> had denied <hi>Chriſt</hi> with Oaths, and Curſes, <hi>Jeſus</hi> looked upon him, and he went out and wept bit<g ref="char:EOLhyphen"/>terly. When <hi>Jeſus</hi> was riſen from the Dead, his chief care was of <hi>Peter.</hi> At his firſt appearance; Go, ſaith he, tel my Diſciples, and <hi>Peter.</hi> Let our Lord <hi>Jeſus</hi> look forth with a ful Eye of free Grace upon us. So ſhall he open and awaken a Spiritual Eye in us, to ſee, how we have with Curſings denied, and divided one from ano<g ref="char:EOLhyphen"/>ther, that is, from <hi>Him</hi> in each other. Then ſhal we go into our ſeveral retirements and weep over our Brea<g ref="char:EOLhyphen"/>ches. Then ſhal we come forth, and in our Exaltati<g ref="char:EOLhyphen"/>ons have the moſt earning bowels towards our moſt
+<pb n="17" facs="tcp:135505:12"/> delinquent, and dejected Brethren: that when we are raiſed, we may raiſe them alſo. Thus much for the <hi>firſt <g ref="char:V">Ʋ</g>ſe</hi> of <hi>Conviction.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="application">
+               <head>
+                  <g ref="char:V">Ʋ</g>SE 2.</head>
+               <div type="introduction">
+                  <p>
+                     <hi>Exhortation.</hi> Let us ſtudy, and endeavor the uniting of the People of God. The Glory of <hi>Chriſt</hi> conſiſts in this, that He is a <hi>Mediator,</hi> and a <hi>Reconciler.</hi> His <hi>Father</hi> loves him for this, that he delights to lay down his life to this end, to break down the Partition-wal, to blot out the Hand-writing of Ordinances, to reconcile God to men, Men to Men. Let us in this be followers of the Lord <hi>Jeſus,</hi> in making it our Joy, &amp; Glory, in think<g ref="char:EOLhyphen"/>ing it worth the parting with our deareſt Enjoyments, Eſtates, and Lives to break down the Partition-walls between the Saints, and recoucile them one to another. We read in the Prophet <hi>Eſay</hi> of thoſe who are called: <hi>The makers up of Breaches; the Builders up of the waſt places of old.</hi> What waſt places, what Deſolations have there been of many yeers in <hi>Church</hi> and <hi>State,</hi> which have all ariſen from our Breaches? When a Generation of men ſhall ariſe, who ſhal make it their work to be <hi>The Makers up of Breaches:</hi> theſe alone wil prove the <hi>Builders up of the waſt places of old.</hi> I ſhal humbly offer to the Daughter of my people <hi>three Waies</hi> of making up our Breaches, and of uniting us.</p>
+               </div>
+               <div n="1" type="method">
+                  <head>The firſt Way.</head>
+                  <p>
+                     <hi>Exalt Jeſus Chriſt,, as the Head of the <g ref="char:V">Ʋ</g>nion. Cant.</hi> 6. The Church of Chriſt is twice ſaid to be <hi>Terrible, as an Army with Banners,</hi> verſe 4. and ver. 10. When Beleevers are
+<pb n="18" facs="tcp:135505:13"/> united in one Compact, and Harmonious Body, as an Army: they are a ſtrength to themſelves, and a Terror to all their Enemies Inviſible, or viſible. But then they muſt have <hi>Banners,</hi> unto which they muſt be gathered, and under which they may be united. What are theſe <hi>Banners?</hi> The <hi>Name</hi> of God, that is, the Mani<g ref="char:EOLhyphen"/>feſtation of God in the face of <hi>Chriſt, Pſal.</hi> 20.5. <hi>Chriſt</hi> himſelf figured out, <hi>Pſal.</hi> 60.4. The <hi>Love of Chriſt, Cant.</hi> 2.4. Theſe are the <hi>Banners,</hi> under which the Saints are formed into one Body, as an Heavenly Hoſt. But who ſhall be the <hi>Standard-bearer,</hi> to diſplay theſe Ban<g ref="char:EOLhyphen"/>ners, to lift them up, and to hold them forth? <hi>Canti<g ref="char:EOLhyphen"/>cles,</hi> 5.10. <hi>Jeſus Chriſt</hi> is ſaid to be the <hi>Chiefeſt among ten thouſand.</hi> You may in the margent of your <hi>Bibles</hi> ſee, that it is read according to the <hi>Hebrew;</hi> the <hi>Stan<g ref="char:EOLhyphen"/>dard bearer among ten thouſand.</hi> The <hi>Love</hi> of <hi>Chriſt,</hi> the <hi>Truths</hi> of <hi>Chriſt,</hi> the <hi>Manifeſtations</hi> of God in <hi>Chriſt,</hi> the <hi>Perſon</hi> of <hi>Chriſt,</hi> as they are diſplayed, and held forth to us by the Immediate Preſence, and Appearance of the Lord <hi>Jeſus</hi> in the Spirit; theſe are our <hi>Banners,</hi> and this is the Standard-bearer among the Thouſands, and ten Thouſands of the Saints. This is the <hi>Head</hi> of the <hi>
+                        <g ref="char:V">Ʋ</g>nion.</hi>
+                  </p>
+                  <p>For this you have the Decree of God expreſly ſet down by the <hi>Spirit of Propheſie</hi> in good old <hi>Jacob, Gen.</hi> 49.10. <hi>To him ſhal the Gathering of the People be,</hi> that is, to <hi>Jeſus Chriſt.</hi> Through the Changes of theſe times how ma<g ref="char:EOLhyphen"/>ny <hi>Banners</hi> have been ſet up? On how many Standard-bearers have we caſt our Eyes, ſeveral <hi>Principles</hi> and <hi>Per<g ref="char:EOLhyphen"/>ſons,</hi> ſeveral <hi>Opinions</hi> in Religion, or <hi>waies</hi> in Worſhip, divers <hi>Forms</hi> of Governments, divers <hi>Parties,</hi> hoping, that to theſe the People would be gathered together? But inſtead of <hi>
+                        <g ref="char:V">Ʋ</g>nity,</hi> and <hi>Beauty,</hi> there hath
+<pb n="19" facs="tcp:135505:13"/> been <hi>Burning,</hi> and a <hi>Breach.</hi> From whence hath this been? Hath it not been from hence, that this is the <hi>Or<g ref="char:EOLhyphen"/>dinance</hi> of God, this is the <hi>Eternal Decree</hi> concerning our Lord <hi>Jeſus;</hi> that <hi>to Him the Gathering of the People ſhall be?</hi>
+                  </p>
+                  <p>I have known a man, who through theſe Revoluti<g ref="char:EOLhyphen"/>ons, and houres of Temptation, when he hath thought to be clean, his own Cloaths have defiled him; when he hath waſh't himſelf in the Blood of <hi>Chriſt,</hi> he hath been again rouled in the miry Pit, as <hi>Job</hi> ſpeaks. This man in the nights of his Guilt, Shame, or Sufferings hath had this Voyce come to the Ears of his Spirit once, yea twice he heard it: <hi>Seek not thine own Things, but the Things of Jeſus Chriſt. When thine heart is turned entirely to the Lord Jeſus, the Vail, the Darkening, Diſguiſing, and Divi<g ref="char:EOLhyphen"/>ding Vail ſhal be taken off.</hi> This Voyce came to him nor for his ſake alone, but for yours alſo, and all the Saints.</p>
+                  <p>
+                     <hi>John</hi> 11.25. <hi>Jeſus</hi> ſaith to <hi>Martha</hi> I am the <hi>Reſurrection and the Life.</hi> You the Honorable Members of this preſent High Court of Parliament, you alſo have received Re<g ref="char:EOLhyphen"/>bukes from the Lord, whatever the Counſels of Men have been concerning you. A Reſurrection is agreed by Philoſophers &amp; Divines to be a Supernatural Effect, the work of an Almighty hand, the undeniable Argu<g ref="char:EOLhyphen"/>ment of a God. <hi>Twice</hi> have you been ſcatterred as Duſt by the Wind; <hi>Twice</hi> have you been, as the Dead Men lying in our Streets. <hi>Twice</hi> hath the Lord by a mighty Voyce, which hath rent the Rocks, ſaid to you; <hi>Re<g ref="char:EOLhyphen"/>turn again; Twice</hi> have you been gathered together, like ſcattered Duſt into a Living and Glorious Body, as by a double Reſurrection from the Dead. O! that
+<pb n="20" facs="tcp:135505:14"/> it may now appear, that <hi>Jeſus</hi> hath been this Reſurrecti<g ref="char:EOLhyphen"/>on, that he is the Root, out of which you are now the third time ſprung up; that it is He, who is riſen in you. Then are you riſen unto <hi>Honor,</hi> and not unto <hi>Shame.</hi> Then ſhal you exalt <hi>Jeſus Chriſt</hi> in his Members, Truth, and Love; in the Preſence, and Out-ſhinings of His Heavenly Perſon; as the Head of your Union. So ſhal he be in the midſt of you a Head of Union to the Saints, and to theſe Nations. You ſhal go forth, as his Angels to gather his Saints from the four winds, to which they are diſperſed; and to Him in you ſhal the <hi>gathering of the People be.</hi> Suffer him then to diſplay his <hi>Banners</hi> freely, chooſe him for your only <hi>Standard bea<g ref="char:EOLhyphen"/>rer.</hi> Sin no more againſt him, who hath thus wonder<g ref="char:EOLhyphen"/>fully appeared unto you <hi>Twice,</hi> leſt a worſe ſcattering, and death come upon you. This is the <hi>Firſt Way</hi> of <hi>
+                        <g ref="char:V">Ʋ</g>nion.</hi>
+                  </p>
+               </div>
+               <div n="2" type="method">
+                  <head>The Second Way.</head>
+                  <p>
+                     <hi>Cheriſh the Spirit, as the only Band of <g ref="char:V">Ʋ</g>nion.</hi> Epheſ. 4.3. <hi>Endeavoring to keep the <g ref="char:V">Ʋ</g>nity of the Spirit in the Bond of Peace.</hi> The Unity of the Spirit is the Bond of Peace, 1 <hi>Cor.</hi> 12.13. <hi>By one Spirit we are all baptized into one Body.</hi> To make way for that which I am to ſay of the <hi>Spirit,</hi> I have <hi>two Cautions</hi> to interpoſe to prevent <hi>Objections.</hi>
+                  </p>
+                  <p>Firſt, I intend not any thing that I ſhal plead for the <hi>Spirit</hi> as a pretence to the <hi>Fleſh.</hi> I humbly con<g ref="char:EOLhyphen"/>ceive a fleſhly licentiouſneſs juſtified by the name of the <hi>Spirit</hi> to be, if not that ſin it ſelf, yet the next ſtep to the ſin againſt the <hi>Holy Ghoſt.</hi>
+                  </p>
+                  <pb n="21" facs="tcp:135505:14"/>
+                  <p>Secondly, I would not have the Glory, which I give to the <hi>Spirit</hi> interpreted, as a laying aſide of the <hi>Ordinances,</hi> or a reflection upon the <hi>Forms</hi> of Godlineſs. While we have the Life of <hi>Chriſt</hi> in theſe Earthly Bo<g ref="char:EOLhyphen"/>dies, and the manifeſtations of the <hi>Spirit</hi> in this fleſh: <hi>Ordinances</hi> and outward <hi>Forms</hi> wil be of neceſſary uſe. Only theſe <hi>Rules</hi> are carefully to be obſerved. <hi>Firſt,</hi> That our <hi>Ordinances</hi> and outward <hi>Forms</hi> flow naturally, kindly, and freely from the <hi>Spirit. Secondly,</hi> That we behold them in the Light, and enjoy them in the Life of the <hi>Spirit. Thirdly,</hi> That we reſt not in them, but make uſe of them to grow up through them into the inviſible and Heavenly things themſelves. I have premiſed this to the <hi>Second Way,</hi> which I have pro<g ref="char:EOLhyphen"/>pounded for the uniting of the People of God, which is this: <hi>Fix no Principle of <g ref="char:V">Ʋ</g>nion among the Saints, but on<g ref="char:EOLhyphen"/>ly the Holy Spirit.</hi> This one <hi>Spirit</hi> is that which bapti<g ref="char:EOLhyphen"/>zeth us into one body, and by its unity preſerveth us in the Bond of Peace. Give me leave to inſert here <hi>three Obſervations; Two</hi> of which I have often heard made upon theſe Times; <hi>One</hi> my ſelf have made upon my ſelf.</p>
+                  <p>
+                     <hi>Obſ.</hi> 1. As the Spirit in the ſimplicity, and liberty of it hath been held forth, and aſſerted in our Supreme Counſels, and Forces, for the Bond of our Union: ſo they have proſpered; they have not been only as ſtars in a cloudy night, now appearing for a little while, and then ſuddenly loſt; but as the Stars in the <hi>Revelation,</hi> held cleerly forth, held unmovably faſt in the right hand of <hi>Jeſus Chriſt.</hi> But when they have declined this Intereſt, when they have diſowned, or confined
+<pb n="22" facs="tcp:135505:15"/> this <hi>Spirit;</hi> as God is ſaid to have ſet an ambuſh in the midſt of <hi>Edom, Moab,</hi> and <hi>Ammon,</hi> when they came a<g ref="char:EOLhyphen"/>gainſt <hi>Jehoſhaphat,</hi> that they divided and deſtroyed one another: ſo, as by an inviſible ambuſh from Heaven, have they been broken to pieces.</p>
+                  <p>
+                     <hi>Obſ.</hi> 2. When any perſons have fixt to themſelves a<g ref="char:EOLhyphen"/>ny thing viſible, any thing beſides this inviſible anoin<g ref="char:EOLhyphen"/>ting, the bleſſed <hi>Spirit,</hi> for a principle of Unity: a di<g ref="char:EOLhyphen"/>viding, wrathful, deſolating Spirit hath ſprung up into the midſt of them. All pretended Bonds of Union in this kind have been like the Formal names of <hi>Chriſt,</hi> and <hi>Paul</hi> in the mouths of the Sons of <hi>Sheva,</hi> inſtead of caſting out, they conjure up a fierce, and fiery Spirit. Theſe are the <hi>Obſervations</hi> which I have heard made by others upon theſe Times.</p>
+                  <p>
+                     <hi>Obſ.</hi> 3. That which I have obſerved in my ſelf is this: While I at any time in any meaſure have been back-ſliding, and warping from the ſimplicity, and pu<g ref="char:EOLhyphen"/>rity of the <hi>Spirit,</hi> unto <hi>Senſuality,</hi> or <hi>Formality</hi> of any kind: I have found thoſe ſatisfactions which I have ſought, like <hi>Jonahs</hi> Gourd; a worm ſent into them, by which they have been unexpectedly eaten, and withe<g ref="char:EOLhyphen"/>red.</p>
+                  <p>What would I infer from al this? Thus much, That We ſhould ſet up the <hi>Spirit</hi> alone, as the Principle of our Unity, and ſo of our Proſperity; and ſo much the rather in that the day of the <hi>Spirit</hi> is upon us, when, as the Father hath been glorified in the <hi>Son,</hi> ſo the <hi>Father</hi> and the <hi>Son</hi> wil have their ful, and final Glory in the <hi>Spirit.</hi> How long is it, ſince our Lord <hi>Jeſus</hi> told us,
+<pb n="23" facs="tcp:135505:15"/> that the Father ſought ſuch <hi>Worſhippers, as ſhould worſhip him in Spirit, and Truth;</hi> oppoſing the <hi>Spirit</hi> to the <hi>Let<g ref="char:EOLhyphen"/>ter,</hi> Truth to the Shadows, and figures of Divine Things? The Pſalmiſt reciting the ſtory of the Pa<g ref="char:EOLhyphen"/>triarks, and the Iſraelites in the Wilderneſs hath this paſſage, <hi>Pſal.</hi> 105. ver. 14, 15. <hi>He reproved Kings for their ſakes,</hi> (then we interpoſe, <hi>ſaying,</hi> but the ſentence follows as a dreadful admonition upon occaſion of that example fixt there from the mouth of God for all Powers to the end of the World.) <hi>Touch not my Prophets, do mine anointed no harm.</hi> The <hi>Spirit</hi> is this <hi>anointing.</hi> This <hi>Anointing</hi> is that, which makes <hi>Prophets,</hi> as it doth <hi>Kings,</hi> and <hi>Prieſts</hi> to God. It hath been for this <hi>Anoin<g ref="char:EOLhyphen"/>ting's</hi> ſake, for theſe <hi>Anointed</hi> Ones, that the Lord hath reproved Princes in the midſt of us, and gone before us through this Wilderneſs <hi>Eſ.</hi> 4.5. <hi>It is ſpoken of the laſt daies: God will create upon the Aſſemblies of Mount</hi> Sion <hi>a Cloud by day, and a ſhining fire by night: for upon all the Glo<g ref="char:EOLhyphen"/>ry ſhal be a Defence.</hi> Would you know, what this <hi>Glory</hi> is, that thus ſhal be a <hi>Defence</hi> upon al the <hi>Aſſemblies</hi> in the times of the Goſpel? St. <hi>Peter</hi> tels us, 1 <hi>Pet.</hi> 4.14. <hi>The Spirit of glory, and of God reſteth upon you.</hi> You, to whom God hath given <hi>Spiritual Senſes,</hi> and in whom he keeps thoſe hitherto exerciſed, and awake: ſee the <hi>glory,</hi> which reſts upon us, which is our Pillar of a cloud by day, and our ſhining flame of fire by night, the <hi>Holy Spirit.</hi> This hath been, this alone is our <hi>Guide,</hi> our <hi>Defence,</hi> our <hi>Reſting place,</hi> our <hi>Glory</hi> is the midſt of all the Nations. Say not, how ſhal we diſcern this Spirit? As a Cloud by day, and a Fire by night: ſo will the Lord make him evident to the ſeeing Eye, and to eve<g ref="char:EOLhyphen"/>ry one that waits for him.</p>
+                  <pb n="24" facs="tcp:135505:16"/>
+                  <p>To conclude this Particular; In the Bowels of <hi>Chriſt,</hi> and by the Conſolations of this <hi>Spirit,</hi> as I am able, I earneſtly beſeech all, that cal upon the Name of the Lord <hi>Jeſus</hi> in theſe Nations, together with their Lea<g ref="char:EOLhyphen"/>ders, and Rulers; that for their Brethren ſake, and for the Peace of <hi>Jeruſalem,</hi> they would cheriſh, advance, contend for this <hi>Band</hi> of Unity, and Peace, the bleſſed <hi>Spirit</hi> in four things. Firſt, In the <hi>Perſon</hi> of the <hi>Spirit</hi> Himſelf. Secondly, In <hi>Spiritual Worſhippers.</hi> Thirdly, In <hi>Spiritual Worſhips.</hi> Fourthly, In <hi>Spiritual Appearances</hi> flowing forth through the Perſon of the Spirit, upon Spiritual Worſhippers, in their Spiritual Worſhip; that the <hi>Purity</hi> of the <hi>Spirit</hi> be not ſtained, nor the <hi>Liberty</hi> of the <hi>Spirit</hi> reſtrained in theſe Particulars, which make that true <hi>Mount Sion,</hi> that <hi>Heavenly Jeruſalem,</hi> that <hi>Church of the Firſt-born,</hi> where alone Brethren dwel together in Unity, and where God hath appointed the Bleſſing, and Life for evermore.</p>
+               </div>
+               <div n="3" type="method">
+                  <head>The Third Way.</head>
+                  <p>This is the laſt Way of Uniting; to <hi>Sweeten</hi> one ano<g ref="char:EOLhyphen"/>ther unto a Union. I ſhall point you here to one <hi>In<g ref="char:EOLhyphen"/>ſtance</hi> of many: <hi>Be ready to forgive,</hi> be apt to pardon one another. To move you to this, and direct you in this, I ſhal ſet before you three examples; <hi>Joſeph, David, Jeſus Chriſt.</hi>
+                  </p>
+                  <p>
+                     <hi>Firſt, Joſeph</hi> had received as great injuries from his Brethren, as can be imagined. Out of envy, and ma<g ref="char:EOLhyphen"/>lice they deſigned his death, ſold him from his Fathers houſe into the hands of ſtrangers, to be a Bond-ſlave for his whol life. He becomes great, ſees his Brethren
+<pb n="25" facs="tcp:135505:16"/> lying at his Feet, entirely at his Mercy, the power of a mighty Nation in his hand to avenge himſelf of them at his pleaſure without the leaſt fear of any Evil retur<g ref="char:EOLhyphen"/>ning to himſelf by it. Yet now he prevents their aſk<g ref="char:EOLhyphen"/>ing of pardon by pardoning them firſt, and freely. He ſweetens the Pardon by owning the Dearneſs of the Relation between himſelf, and them, at the very firſt Diſcovery of himſelf to them, ſaying with Embraces, and Tears; <hi>I am your Brother</hi> Joſeph. He lightens the burthen of their Guilt, and Shame by a ſweet Interpre<g ref="char:EOLhyphen"/>tation of all into a <hi>Divine Deſign: You intended it for Evil, but God hath turned it to Good:</hi> You deſigned Diſſoluti<g ref="char:EOLhyphen"/>ons, and Deſolations; but God hath by it brought forth to me a wonderful Increaſe of Power, Authori<g ref="char:EOLhyphen"/>ty, and Glory. This is the Example of <hi>Joſeph.</hi> Let us go and do the like. Let the ſight of <hi>Jeſus</hi> in the midſt of our Brethren, and a reſpect to <hi>God our Father,</hi> and <hi>their Father</hi> prevail as much with us, as the preſence of <hi>Benja<g ref="char:EOLhyphen"/>min,</hi> and the remembrance of his old Father <hi>Jacob</hi> did with him. <hi>Gen.</hi> 45.4, 5. How moving are thoſe words: <hi>Come neer, I pray you. Be not angry or grieved, that you ſold me into</hi> Egypt? But how melting is that, after <hi>Jacob</hi>'s death, when his Brethren ſent to him, ſaying; <hi>Forgive us now the treſpaſs of the Servants of the God of thy Fathers. And</hi> Joſeph <hi>wept, when they ſpake unto him,</hi> Gen. 50.17.</p>
+                  <p>
+                     <hi>Secondly, Shimei</hi> had reviled <hi>David</hi> in his low Eſtate with the bittereſt Reproaches, and blackeſt Crimes of Blood, and Death. At his return <hi>Abiſhai</hi> moves to have him put to Death. <hi>David</hi> replies: <hi>What have I to do with you, ye Sons of</hi> Zerviah? <hi>Ye are alwaies adverſaries to me. Shal then any man be put to Death this day in</hi> Iſrael? <hi>For do
+<pb n="26" facs="tcp:135505:17"/> not I know, that I am this day King in</hi> Iſrael? 2 <hi>Sam.</hi> 19.22. How good, how great, how like to God is this in <hi>David</hi> to make the day of his <hi>Power</hi> a Day of <hi>Grace,</hi> to make uſe of the Eſtabliſhment of his Greatneſs to pardon the greateſt Crimes committed againſt him?</p>
+                  <p>
+                     <hi>Laſtly, Jeſus Chriſt</hi> in the caſe of <hi>Mary Magdalen</hi> upon occaſion of a Parable put to <hi>Simon,</hi> gives the account of his Way with Men in that <hi>Maxime: He, to whom much is forgiven, wil love much.</hi> This is <hi>Chriſt's</hi> way, O! that this were <hi>Chriſtians</hi> way of ſubduing their Brethren, and the People to them, of winning Love: <hi>To forgive much.</hi> This is the Divine way of making our Bre<g ref="char:EOLhyphen"/>thren Captives in a noble War of Love and binding them to us in Golden Chains of Affection: <hi>To forgive much.</hi> It is ſaid, that we ſhould make a Golden Bridg for a flying Enemy. By retaining our Anger we force our Brethren to retain their Enmity. So we bring up<g ref="char:EOLhyphen"/>on our ſelves the Danger of a Deſperate Enemy. But by pardoning freely, ſpeedily, ſweetly, we make a Golden Bridg for our Brethren to paſs over from their Enmity to Love. When we have an offending Brother at our Mercy, let us think we hear <hi>Jeſus Chriſt</hi> from Hea<g ref="char:EOLhyphen"/>ven pleading for him, as <hi>Paul</hi> did for <hi>Oneſimus</hi> to <hi>Phile<g ref="char:EOLhyphen"/>mon: Receive him, that is, my Bowels; once unprofitable, but now by mine, and thy pardoning him made profitable, and faith<g ref="char:EOLhyphen"/>ful to thee, and to me.</hi>
+                  </p>
+                  <p>I ſhal wind up al with that of St. <hi>John,</hi> who, when he was very old went up into the Pulpit, &amp; ſaid no more, but, <hi>Little Children Love one another, thrice over.</hi> So he came down again. We are <hi>Children</hi> having al the ſame Father. Therfore <hi>once let us love one another.</hi> We are <hi>little Children,</hi> apt to fal out. Therefore a <hi>ſecond</hi> time, <hi>Let us love one a<g ref="char:EOLhyphen"/>nother.</hi>
+                     <pb n="27" facs="tcp:135505:17"/> We are little Children al of us ſubject to failing, faults, and falls. Therefore a <hi>third</hi> time <hi>let us love one ano<g ref="char:EOLhyphen"/>ther.</hi> Let us love one another, by that <hi>Twofold</hi> meaſure; <hi>Freely forgiving one another, as God for Chriſts ſake hath for<g ref="char:EOLhyphen"/>given you;</hi> Eph. 4.32. <hi>Receiving one another into the Glory of God, as Chriſt alſo hath received us, Rom.</hi> 15.7. There is a Divine Speech reported of <hi>Conſtantine</hi> the Great: <hi>If I ſhould ſee an Eminent Chriſtian committing a great Crime I would cover him with my purple Robe, to hide his ſhame even from mine own Eyes.</hi> You, who have bin great ſinners, <hi>thus</hi> hath <hi>Chriſt</hi> received you. You, who are grear ſinners, <hi>thus</hi> ſtands Chriſt this day, this hour, this moment, while you are hearing theſe words, Ready, longing to receive you, to cover all your Guilt, and Shame with the <hi>Robe</hi> of the <hi>Righteouſneſs,</hi> and <hi>Glory</hi> of <hi>God</hi> in <hi>Himſelf.</hi> Thus let us receive one another into the <hi>Glory</hi> of <hi>God;</hi> hiding all our mutual ſhame in the Brightneſs of our <hi>Father</hi>'s, and our <hi>Savior</hi>'s Glory.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:135505:18"/>
+            <head>Books Printed by <hi>Peter Cole,</hi> Printer and Book<g ref="char:EOLhyphen"/>ſeller of <hi>LONDON,</hi> at the Exchange.</head>
+            <list>
+               <head>Twenty one ſeveral Books of Mr. <hi>Wil<g ref="char:EOLhyphen"/>liam Bridge,</hi> Collected into two Volumns. <hi>Viz.</hi>
+               </head>
+               <item>1 Scripture Light the moſt ſure Light.</item>
+               <item>2 Chriſt in Travel.</item>
+               <item>3 A Lifting up for the Caſt-down.</item>
+               <item>4 Sin againſt the Holy Ghoſt.</item>
+               <item>5 Sins of Infirmity.</item>
+               <item>6 The falſe Apoſtle tried and diſco<g ref="char:EOLhyphen"/>vered.</item>
+               <item>7 The good and means of Eſtabliſh<g ref="char:EOLhyphen"/>ment.</item>
+               <item>8 The great things Faith can do.</item>
+               <item>9 The great things Faith can ſuffer.</item>
+               <item>10 The Great Goſpel Myſtery of the Saints Comfort and Holineſs, opened and applied from Chriſts Prieſtly Office.</item>
+               <item>11 Satans power to Tempt, and Chriſts Love to, and Care of his People under Temptation.</item>
+               <item>12 Thankfulneſs required in every Condition.</item>
+               <item>13 Grace for Grace.</item>
+               <item>14 The Spiritual Actings of Faith through Natural Impoſſibilities.</item>
+               <item>15 Evangelical Repentance</item>
+               <item>16 The Spiritual Life, and in-being of Chriſt in all Beleevers.</item>
+               <item>17 The Woman of Canaan.</item>
+               <item>18 The Saints Hiding place, <hi>&amp;c.</hi>
+               </item>
+               <item>19 Chriſt Coming, &amp;c.</item>
+               <item>20 A Vindication of Goſpel Ordi<g ref="char:EOLhyphen"/>nances.</item>
+               <item>21 Grace and Love beyond Gifts.</item>
+            </list>
+            <list>
+               <head>New Books of <hi>Mr.</hi> Sydrach Simpſon, VIZ.</head>
+               <item>1 Of Unbelief; or the want of rea<g ref="char:EOLhyphen"/>dineſs to lay hold on the comfort given by Chriſt.</item>
+               <item>2 Not going to Chriſt for Life and Salvation is an exceeding great Sin, yet Pardonable.</item>
+               <item>3 Of Faith, <hi>Or,</hi> That beleeving is receiving Chriſt; And receiving Chriſt is Beleeving.</item>
+               <item>4 Of Covetouſneſs</item>
+            </list>
+            <list>
+               <head>Mr. <hi>Hookers</hi> New Books in three Vo<g ref="char:EOLhyphen"/>lums: One in Octavo, and two in Quarto,</head>
+               <item>Theſe Eleven New Books of Mr. <hi>Thomas Hooker,</hi> made in <hi>New-Eng<g ref="char:EOLhyphen"/>land.</hi> Are atteſted in an Epiſtle by Mr. <hi>Thomas Goodwin,</hi> and Mr. <hi>Phi<g ref="char:EOLhyphen"/>lip Nye,</hi> To be written with the Au<g ref="char:EOLhyphen"/>thors own hand: None being writ<g ref="char:EOLhyphen"/>ten by himſelf before. One Volum being a Comment upon Chriſt's laſt Prayer in the ſevententh of <hi>John.</hi>
+               </item>
+               <item>Ten Books of the Application of Redemption by the Effectual Work of the Word, and Spirit of Chriſt, for the bringing home of loſt ſinners to God.</item>
+            </list>
+            <list>
+               <head>Mr. <hi>Burroughs</hi> WORKS. viz. on <hi>Matth.</hi> 11.</head>
+               <item>1 Chriſts call to all thoſe that are Weary and Heavy Laden to come to him for Reſt.</item>
+               <item>2 Chriſt the Great Teacher of Souls that come to him.</item>
+               <pb facs="tcp:135505:18"/>
+               <item>3 Chriſt the Humble Teacher of thoſe that come to him.</item>
+               <item>4 The only Eaſie way to Heaven.</item>
+               <item>5 The excellency of holy Courage.</item>
+               <item>6 Goſpel Reconciliation.</item>
+               <item>7 The Rare Jewel of Chriſtian Con<g ref="char:EOLhyphen"/>tentment.</item>
+               <item>8 Goſpel-Worſhip.</item>
+               <item>9 Goſpel-Converſation.</item>
+               <item>10 A Treatiſe of <hi>Earthly-Minded<g ref="char:EOLhyphen"/>neſs.</hi>
+               </item>
+               <item>11 Expoſition of the Propheſie of <hi>Hoſea.</hi>
+               </item>
+               <item>12. The Evil of Evils, or the excee<g ref="char:EOLhyphen"/>ding ſinfulneſs of Sin.</item>
+               <item>13 Precious Faith.</item>
+               <item>14 Of Hope.</item>
+               <item>15 Of Walking by Faith.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Dr.</hi> Hills WORKS.</head>
+               <item>The Kings Tryal at the High Court of Juſtjce.</item>
+               <item>Wiſe Virgin, Publiſhed by Mr. <hi>Thomas Weld,</hi> of <hi>New-England.</hi>
+               </item>
+               <item>Mr. <hi>Rogers</hi> on <hi>Naaman</hi> the Syrian, his Diſeaſe and Cure: Diſcovering the Leproſie of Sin and Self-love; with the Cure, <hi>viz.</hi> Self-denial and Faith.</item>
+               <item>A Godly and Fruitful Expoſition, on the firſt Epiſtle of <hi>Peter.</hi> By Mr. <hi>John Rogers,</hi> Miniſter of the word of God at <hi>Dedham</hi> in <hi>Eſſex.</hi>
+               </item>
+               <item>Mr. <hi>Rogers</hi> his Treatiſe of Marri<g ref="char:EOLhyphen"/>age.</item>
+               <item>The Wonders of the Load-ſtone. By <hi>Samuel Ward</hi> of <hi>Ipſwich.</hi>
+               </item>
+               <item>An Expoſition on the Goſpel of the Evangeliſt St. <hi>Matthew.</hi> By Mr. <hi>Ward.</hi>
+               </item>
+               <item>The Diſcipline of the Church in <hi>New England:</hi> By the Churches and Synod there.</item>
+               <item>Mr. <hi>Brightman</hi> on the Revelation.</item>
+               <item>Chriſtians Engagement for the Goſ<g ref="char:EOLhyphen"/>pel, by <hi>John Goodwin.</hi>
+               </item>
+               <item>Great Church Ordinance of Baptiſm.</item>
+               <item>Mr <hi>Loves</hi> Caſe, containing his Pe<g ref="char:EOLhyphen"/>titions, Narrative, and Speech.</item>
+               <item>A Congregational Church is a Ca<g ref="char:EOLhyphen"/>tholick Viſible Church. By <hi>Samuel Stone</hi> in <hi>New-England.</hi>
+               </item>
+               <item>A Treatiſe of Politick Powers.</item>
+               <item>Dr. <hi>Sibbs</hi> on the Philippians.</item>
+               <item>
+                  <hi>Vox Pacifica,</hi> or a Perſwaſive to Peace.</item>
+               <item>Dr. <hi>Preſtons</hi> Saints ſubmiſſion, and Satans Overthrow.</item>
+               <item>Pious Mans Practice in Parliament time.</item>
+               <item>
+                  <hi>Barriffs</hi> Military Diſcipline.</item>
+               <item>The Immortallity of Mans Soul.</item>
+               <item>The Anatomiſt Anatomized.</item>
+               <item>The Biſhop of <hi>Canterbury's</hi> Speech</item>
+               <item>
+                  <hi>Woodwards</hi> Sacred Ballance.</item>
+               <item>Dr. <hi>Owen</hi> againſt Mr. <hi>Baxter.</hi>
+               </item>
+               <item>Abrahams Offer, Gods Offering: Being a Sermon by Mr. <hi>Herle,</hi> before the Lord Major of <hi>London.</hi>
+               </item>
+               <item>Mr. <hi>Spurſtows</hi> Sermon, being a Pat<g ref="char:EOLhyphen"/>tern of Repentance</item>
+               <item>
+                  <hi>Englands</hi> Deliverance. By <hi>Peter Sterry.</hi>
+               </item>
+               <item>The Way of God with his People in theſe Nations. By <hi>Peter Sterry.</hi>
+               </item>
+               <item>Mr. <hi>Sympſon's</hi> ſermon at <hi>Weſtminſter</hi>
+               </item>
+               <item>Mr. <hi>Feaks</hi> ſermon before the Lord Major.</item>
+               <item>The Beſt and Worſt Magiſtrate. By <hi>Obadiah</hi> Sedgwick. A ſermon.</item>
+               <item>A Sacred Panegyrick. By <hi>Stephen Marſhal.</hi> A ſermon.</item>
+               <item>The Craft and Cruelty of the Chur<g ref="char:EOLhyphen"/>ches Adverſaries. By <hi>Matthew New<g ref="char:EOLhyphen"/>comen</hi> of <hi>Dedham.</hi> A ſermon.</item>
+               <item>
+                  <hi>Clows</hi> Chyrurgery.</item>
+               <item>Marks of Salvation.</item>
+            </list>
+            <list>
+               <head>Mr. <hi>Stephen Marſhals</hi> New WORKS <hi>VIZ.</hi>
+               </head>
+               <item>1 Of Chriſts Interceſſion, or of ſins of Infirmity.</item>
+               <item>2 The high Priviledg of beleevers, They are the Sons of God.</item>
+               <pb facs="tcp:135505:19"/>
+               <item>3 Faith the Means to feed on Chriſt</item>
+               <item>4 Self-Denial.</item>
+               <item>5 The Saints Duty to keep their Hearts, <hi>&amp;c.</hi>
+               </item>
+               <item>6 The Myſtery of ſpiritual Life.</item>
+            </list>
+            <list>
+               <head>Several Phyſick Books of <hi>Nich. Culpeper</hi> and <hi>A. Cole, &amp;c.</hi>
+               </head>
+               <item>1 Idea of Practical Phyſick in twelve Books.</item>
+               <item>2 <hi>Sennertus</hi> thirteen Books of Na<g ref="char:EOLhyphen"/>tural Phyloſophy.</item>
+               <item>3 <hi>Sennertus</hi> two Treatiſes. 1 Of the Pox. 2 Of the Gout.</item>
+               <item>4 Twenty four Books of the Pra<g ref="char:EOLhyphen"/>ctice of Phyſick, being the Works of that Learned and Renowned Doctor, <hi>Lazarus Riverius.</hi>
+               </item>
+               <item>5 <hi>Riolanus</hi> Anatomy.</item>
+               <item>6 <hi>Veſtingus</hi> Anatomy of the Body of Man.</item>
+               <item>7 A Tranſlation of the New Diſ<g ref="char:EOLhyphen"/>penſatory, made by the Colledg of Phyſitians of <hi>London.</hi> Whereunto is added, The Key to <hi>Galens</hi> Method of Phyſick.</item>
+               <item>8 The Engliſh Phyſitian Enlarged.</item>
+               <item>9 A Directory for Midwives, or a Guide for Women.</item>
+               <item>10 <hi>Galens</hi> Art of Phyſick.</item>
+               <item>11 New Method both of ſtudying and Practiſing Phyſick.</item>
+               <item>12 A Treatiſe of the Rickets.</item>
+               <item>13 Medicaments for the Poor, Or Phyſick for the Common People.</item>
+               <item>14 Health for the Rich and Poor, by Dyet without Phyſick.</item>
+            </list>
+            <list>
+               <item>The <hi>London Diſpenſatory</hi> in Folio, of a large Character in Latine.</item>
+               <item>The <hi>London Diſpenſatory</hi> in twelves, a ſmal Pocket Book in Latin,</item>
+            </list>
+            <pb facs="tcp:135505:19"/>
+         </div>
+      </back>
+   </text>
+</TEI>
